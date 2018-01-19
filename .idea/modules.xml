@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java9PlayArea.iml" filepath="$PROJECT_DIR$/Java9PlayArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.tbc.java9.api/com.tbc.java9.api.iml" filepath="$PROJECT_DIR$/com.tbc.java9.api/com.tbc.java9.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.tbc.java9.repository/com.tbc.java9.repository.iml" filepath="$PROJECT_DIR$/com.tbc.java9.repository/com.tbc.java9.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.tbc.java9pa.domain/com.tbc.java9pa.domain.iml" filepath="$PROJECT_DIR$/com.tbc.java9pa.domain/com.tbc.java9pa.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.tbc.java9pa.service/com.tbc.java9pa.service.iml" filepath="$PROJECT_DIR$/com.tbc.java9pa.service/com.tbc.java9pa.service.iml" />
+    </modules>
+  </component>
+</project>
